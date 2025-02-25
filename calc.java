@@ -4,8 +4,10 @@ public class JavaProgram
 {
     public static void main(String args[])
   {
+
     int first, second, add,subtract;
  
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Enter Two Numbers : ");
